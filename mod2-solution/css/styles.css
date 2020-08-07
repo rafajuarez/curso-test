@@ -51,7 +51,7 @@ h1 {
     }   
 }
 
-/********** Tablet devices only **********/
+/********** Tablet devices only **********
 @media (min-width: 768px) and (max-width: 991px) {
 
     .tab-view {
@@ -77,7 +77,7 @@ h1 {
 }
 
 /********** Mobile devices only **********/
-@media (max-width: 767px) {
+@media (max-width: 991px) {
 
     .mob-view {
         float: left;
